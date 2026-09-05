@@ -1,12 +1,17 @@
-- 👋 Hi, I’m @blazepk
-- 👀 I’m interested in web development
-- 🌱 I’m currently learning to be a fullstack web developer and web 3.0
-- 💞️ I’m looking to collaborate on anything related to web development
-- 📫 How to reach me pratyushkk880@gmail.com or pratyush.pk880@gmail.com
-- twitter - https://x.com/pratyushkk880
-- Linkedin - https://www.linkedin.com/in/pratyush-khandelwal-0aa915190
+## Pratyush Khandelwal
 
-<!---
-blazepk/blazepk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Senior software engineer. Frontend architecture is my depth; most of my work now
+is developer platforms and the systems that make AI agents safe to run against
+real software.
+
+Currently at Qure.ai, building agentic developer tooling, MCP integrations and
+browser-based verification infrastructure for multi-region healthcare products.
+Previously at Tekion, where I built the testing, static analysis and CI/CD
+infrastructure used across 500+ repositories.
+
+Interested in agent runtimes, sandboxed tool execution, durable and resumable
+workflows, and evaluation for agents that take actions rather than return text.
+
+TypeScript · Python · Node.js · PostgreSQL · CI/CD · MCP
+
+[LinkedIn](https://www.linkedin.com/in/pratyush-khandelwal-0aa915190/)
